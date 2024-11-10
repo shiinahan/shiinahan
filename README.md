@@ -35,7 +35,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shiinahan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=shiinahan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shiinahan&icon=10&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frhnahnnn) 
@@ -44,7 +44,6 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamaChaniago_)  
 
 </div>
+# 💫 About Me:
+🌱 I’m currently learning data Data Science / Data Analysis<br><br>📫 How to reach me ahfarama@gmail.com<br><br>⚡ Fun fact I think I am a curious person
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
