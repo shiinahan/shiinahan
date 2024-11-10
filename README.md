@@ -50,6 +50,9 @@ Assalamualaikum Kak Ci
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p align="center">
+  <a href="https://github.com/shiinahan/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Assalamu'alaikum+jamet"></a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Rama Chaniago</h1>
 <h3 align="center">a student who loves to learn</h3>
