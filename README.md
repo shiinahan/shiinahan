@@ -28,14 +28,18 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiinahan&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=shiinahan&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=shiinahan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiinahan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shiinahan&theme=merko&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shiinahan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=shiinahan&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frhnahnnn) 
