@@ -44,6 +44,3 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamaChaniago_)  
 
 </div>
-# 💫 About Me:
-🌱 I’m currently learning data Data Science / Data Analysis<br><br>📫 How to reach me ahfarama@gmail.com<br><br>⚡ Fun fact I think I am a curious person
-
