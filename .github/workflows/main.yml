@@ -1,64 +1,47 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controls when the action will run
 on:
   schedule:
     # Every 6 hours
     - cron: "0 */6 * * *"
-  # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
-# The sequence of jobs in this workflow
 jobs:
-  # Define a single job called "build"
   build:
-    # Use the latest Ubuntu runner
     runs-on: ubuntu-latest
 
-    # Define the sequence of steps
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Cache Docker Buildx
-      - name: Cache Docker Buildx
-        uses: actions/cache@v3
-        with:
-          path: ~/.docker/buildx-cache
-          key: ${{ runner.os }}-docker-buildx-cache
+      # Step 2: Create Output Directory
+      - name: Create Output Directory
+        run: mkdir -p dist
 
-      # Step 3: Set up Docker Buildx
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
-        with:
-          install: true
-          driver-opts: image=moby/buildkit:latest
-
-      # Step 4: Cache Docker Layers
-      - name: Cache Docker Layers
-        uses: actions/cache@v3
-        with:
-          path: /tmp/.docker
-          key: ${{ runner.os }}-docker-${{ hashFiles('**/Dockerfile') }}
-          restore-keys: |
-            ${{ runner.os }}-docker-
-
-      # Step 5: Generate the snake animation
+      # Step 3: Generate Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
-        id: snake-gif
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: shiinahan
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 6: Show repository status (debugging)
+      # Optional: If GIF is needed, use Docker
+      - name: Generate Snake Animation (GIF) using Docker
+        run: |
+          docker run --rm \
+          -v ${{ github.workspace }}/dist:/app/dist \
+          platane/snk:latest \
+          --github_user_name shiinahan \
+          --gif_out_path dist/github-contribution-grid-snake.gif \
+          --svg_out_path dist/github-contribution-grid-snake.svg
+
+      # Step 4: Show Git Status
       - name: Show Git Status
         run: git status
 
-      # Step 7: Push changes to the output branch
+      # Step 5: Push Changes to Output Branch
       - name: Push Changes to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
@@ -66,7 +49,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 8: Log completion time
-      - name: Log Completion Time
-        run: echo "Workflow completed at $(date)"
