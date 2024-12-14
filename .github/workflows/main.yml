@@ -25,17 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: shiinahan
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Optional: If GIF is needed, use Docker
-      - name: Generate Snake Animation (GIF) using Docker
-        run: |
-          docker run --rm \
-          -v ${{ github.workspace }}/dist:/app/dist \
-          platane/snk:latest \
-          --github_user_name shiinahan \
-          --gif_out_path dist/github-contribution-grid-snake.gif \
-          --svg_out_path dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       # Step 4: Show Git Status
       - name: Show Git Status
