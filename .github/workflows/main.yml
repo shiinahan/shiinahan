@@ -23,8 +23,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: shiinahan
-          token: ${{ secrets.GITHUB_TOKEN }} # Menambahkan token untuk meningkatkan batas API
+          github_user_name: shiinahan  # Ganti dengan nama pengguna GitHub yang benar
           outputs: dist/github-contribution-grid-snake.svg
 
       # Step 4: Show Git Status
