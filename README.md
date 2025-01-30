@@ -28,6 +28,7 @@
 <div align="center">
 
 # 📊 GitHub Stats:
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=shiinahan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiinahan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiinahan&theme=merko&hide_border=false")<br/>
@@ -36,7 +37,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shiinahan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=shiinahan&icon=10&color=0)](https://visitcount.itsvg.in)
+-->
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/Wz1BLckFRq4AAAAC/jkt48-oline-manuel.gif"  />
+</div>
 
+###
 
 ###
 
