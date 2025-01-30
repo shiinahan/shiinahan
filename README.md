@@ -46,4 +46,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shiinahan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamaChaniago_)  
 
+<img src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/snake.svg" alt="Snake animation" />
+
 </div>
