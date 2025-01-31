@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/shiinahan/"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Rama+Chaniago+Anagata"></a>
+  <a align="center href="https://github.com/shiinahan/"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Rama+Chaniago+Anagata"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rama Chaniago</h1>
