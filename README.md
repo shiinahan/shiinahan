@@ -11,7 +11,7 @@
   <a align="center" href="https://github.com/shiinahan/"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Rama+Chaniago+Anagata"></a>
 </p>
 -->
-<h1 align="center">Hi 👋, <a align="center" href="https://github.com/shiinahan/"><img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Rama+Chaniago+Anagata"></a></h1>
+<h1 align="center">Hi 👋, <a align="center" href="https://github.com/shiinahan/"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Rama+Chaniago+Anagata"></a></h1>
 <h3 align="center">a student who loves to learn</h3>
 <p align='center'>
 # 💫 About Me:<br>
