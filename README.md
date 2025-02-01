@@ -12,13 +12,11 @@
 </p>
 -->
 <div align="center">
-  <h1>Hi 👋, 
     <a href="https://github.com/shiinahan/">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=I%27m+Rama+Chaniago+Anagata">
     </a>
-  </h1>
-  <h3>a student who loves to learn</h3>
 </div>
+<h3>a student who loves to learn</h3>
 # 💫 About Me:<br>
 🌱 I’m currently learning data Data Science / Data Analysis<br><br>📫 How to reach me ahfarama@gmail.com<br><br>⚡ Fun fact I think I am a curious person
 </p>
