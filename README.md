@@ -2,6 +2,7 @@
   
   <!-- Header Section -->
   <h1>Hi 👋 
+    <br>
     <a href="https://github.com/shiinahan/">
       <img src="https://readme-typing-svg.herokuapp.com?font=plus+jakarta+sans&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rama+Chaniago+Anagata">
     </a>
