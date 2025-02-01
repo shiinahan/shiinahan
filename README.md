@@ -3,7 +3,7 @@
   <!-- Header Section -->
   <h1>Hi 👋 
     <a href="https://github.com/shiinahan/">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Rama+Chaniago+Anagata">
+      <img src="https://readme-typing-svg.herokuapp.com?font=plus+jakarta+sans&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rama+Chaniago+Anagata">
     </a>
   </h1>
   
