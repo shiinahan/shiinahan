@@ -32,12 +32,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
   <!-- Socials Section -->
-  <h2>🌐 Socials</h2>
-  <p>
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frhnahnnn)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmad-Farhan-Ramadhan)
-    [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shiinahan)
-    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamaChaniago_)
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://twitter.com/ramachaniago_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramachaniago_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahmad farhan ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad farhan ramadhan" height="30" width="40" /></a>
+  <a href="https://instagram.com/frhnahnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frhnahnnn" height="30" width="40" /></a>
   </p>
 
   <!-- Snake Animation -->
