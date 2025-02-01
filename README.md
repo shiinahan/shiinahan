@@ -28,10 +28,10 @@
     </p>
   </div>
 
-  <!-- Quotes Section -->
+  <!-- Quotes Section 
   <h2>✍️ Random Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
+  -->
   <!-- Socials Section -->
  <h3 align="center">Connect with me:</h3>
 <p align="center">
